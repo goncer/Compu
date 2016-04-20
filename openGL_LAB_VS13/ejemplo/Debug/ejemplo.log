@@ -1,0 +1,4 @@
+﻿  GPO_01.cpp
+c:\projects\compu\gpo_01\gpo_01.cpp(128): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\projects\compu\gpo_01\gpo_01.cpp(137): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  ejemplo.vcxproj -> C:\projects\Compu\openGL_LAB_VS13\ejemplo\Debug\ejemplo.exe
